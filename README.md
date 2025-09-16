@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeyvisonJesus&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🎯 Atualmente focado em:
