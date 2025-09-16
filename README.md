@@ -1,12 +1,12 @@
 # Hey! 👋 Eu sou o Deyvison Jesus
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+em+formação;Estudante+de+Cibersegurança;16+anos%2C+muita+dedicação!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+em+formação;Frontend+%26+Backend+Developer;16+anos%2C+muita+dedicação!" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mim
 
-- 🎓 **Estudante** de Desenvolvimento Web e Cibersegurança (Técnico)
+- 🎓 **Estudante** de Desenvolvimento Web (Técnico)
 - 💻 **Desenvolvedor Frontend** com foco em JavaScript e Next.js
 - 🐍 Atualmente estudando **Backend** com Python e MongoDB
 - 🌱 Sempre em busca de novos conhecimentos e desafios
@@ -24,6 +24,12 @@
 ### Backend & Database
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Cibersegurança & Ferramentas
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 Estatísticas GitHub
 
@@ -42,15 +48,18 @@
 current_focus = {
     "learning": ["Python Backend", "MongoDB", "APIs RESTful"],
     "improving": ["JavaScript ES6+", "Next.js Performance"],
+    "exploring": ["Node.js", "Database Design", "Full-Stack Development"],
     "goal": "Tornar-me um desenvolvedor full-stack completo"
 }
 ```
 
-## 🔐 Áreas de Interesse
+## 💻 Áreas de Interesse
 
 - 🌐 **Desenvolvimento Web Full-Stack**
-- 📱 **Aplicações Responsivas**
 - ⚡ **Performance e Otimização**
+- 📱 **Aplicações Responsivas**
+- 🔧 **Arquitetura de Software**
+- 🚀 **Tecnologias Modernas**
 
 ## 🌟 Projetos em Destaque
 
@@ -71,7 +80,7 @@ current_focus = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeyvisonJesusE&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=00d9ff&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
